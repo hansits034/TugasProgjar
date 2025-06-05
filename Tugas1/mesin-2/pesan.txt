@@ -1,0 +1,1 @@
+Halo ini adalah isi file dari client untuk dikirim ke server!
