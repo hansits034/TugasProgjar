@@ -3,7 +3,7 @@ import os
 import re # Import regex module
 from html.parser import HTMLParser
 
-SERVER_HOST = 'localhost'
+SERVER_HOST = '172.16.16.101'
 THREAD_POOL_PORT = 8885
 PROCESS_POOL_PORT = 8889
 
