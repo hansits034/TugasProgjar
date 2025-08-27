@@ -1,2 +1,2 @@
-# TugasProgjar
-Repository Untuk Kode/Dokumentasi Tugas Implementasi Progjar
+# Network Programming Assignment
+Code and Documentation Repository for Network Programming Assignment
